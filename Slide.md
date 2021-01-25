@@ -27,4 +27,50 @@ title: "共振のシミュレーション"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YAzylCur1O4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+--- 
+
+ <iframe src=' https://drive.google.com/file/d/19JRaaNh_WOvv8IlMRJzZW4FovSfxzcJe/preview' width='640' height='480'></iframe>
+
 ---
+
+ <iframe src=' https://drive.google.com/file/d/1VaAdS9hhKqX9HqhPs8gdS_qk4HmW-EG5/preview' width='640' height='480'></iframe>
+
+---
+
+ <iframe src=' https://drive.google.com/file/d/1u5bcZVqJODgQTAD-6sZQ2h559aNfGsDp/preview' width='640' height='480'></iframe>
+
+---
+
+ <iframe src=' https://drive.google.com/file/d/1WS9cYSeww6fdSmsMHvT_CU72x5FXQHCH/preview' width='640' height='480'></iframe>
+
+---
+
+ <iframe src=' https://drive.google.com/file/d/11Oub3zgQ-01HxN3bO26kvQIJmxcCwpiF/preview' width='640' height='480'></iframe>
+
+---
+
+ <iframe src=' https://drive.google.com/file/d/14xr6bMMCrrWuxOq_-PcOrtmvxaMBvgel/preview' width='640' height='480'></iframe>
+
+---
+
+ <iframe src=' https://drive.google.com/file/d/1ZSMz9pdrkxPJwTQjejcWH-8vQ9ZKEk77/preview' width='640' height='480'></iframe>
+
+---
+
+ <iframe src=' https://drive.google.com/file/d/10aweoCPQhAOTNKSnUCx4VqT-SyDZQoum/preview' width='640' height='480'></iframe>
+
+---
+
+ <iframe src=' https://drive.google.com/file/d/1y7os9zOvpTeGKn2akF8hgOTIJYzy46Rp/preview' width='640' height='480'></iframe>
+
+---
+
+ <iframe src=' https://drive.google.com/file/d/1NPQ2RBHwgSaYjAKd6_lyiLKVIBv6feqd/preview' width='640' height='480'></iframe>
+
+---
+
+ <iframe src=' https://drive.google.com/file/d/15Qzt6qvUbFQT1CijeE137M3tcw_0_dN8/preview' width='640' height='480'></iframe>
+
+---
+
+ <iframe src=' https://drive.google.com/file/d/1R5IAqYoeJiSqgvcGrhKkycmkARwFsFbd/preview' width='640' height='480'></iframe>
