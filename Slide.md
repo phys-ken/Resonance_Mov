@@ -32,48 +32,48 @@ title: "共振のシミュレーション"
 
 ---
 
-<video src = "/弦/1.0.mp4"></video>
+<video src = "/string/1.0.mp4"></video>
 
 ---
 
-<video src = "/弦/1.5.mp4"></video>
+<video src = "/string/1.5.mp4"></video>
 
 ---
 
-<video src = "/弦/2.0.mp4"></video>
+<video src = "/string/2.0.mp4"></video>
 
 ---
 
-<video src = "/弦/2.5.mp4"></video>
+<video src = "/string/2.5.mp4"></video>
 
 ---
 
-<video src = "/弦/3.0.mp4"></video>
+<video src = "/string/3.0.mp4"></video>
 
 ---
 
-<video src = "/弦/3.5.mp4"></video>
+<video src = "/string/3.5.mp4"></video>
 
 ---
 
-<video src = "/弦/3.7.mp4"></video>
+<video src = "/string/3.7.mp4"></video>
 
 ---
 
-<video src = "/弦/4.0.mp4"></video>
+<video src = "/string/4.0.mp4"></video>
 
 ---
 
-<video src = "/弦/4.5.mp4"></video>
+<video src = "/string/4.5.mp4"></video>
 
 ---
 
-<video src = "/弦/5.0.mp4"></video>
+<video src = "/string/5.0.mp4"></video>
 
 ---
 
-<video src = "/弦/5.5.mp4"></video>
+<video src = "/string/5.5.mp4"></video>
 
 ---
 
-<video src = "/弦/6.0.mp4"></video>
+<video src = "/string/6.0.mp4"></video>
