@@ -32,7 +32,7 @@ title: "共振のシミュレーション"
 ---
 
 # 基本振動
-<video controls width="250">
+<video controls width="560">
     <source src="string/1.0.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
@@ -40,7 +40,7 @@ title: "共振のシミュレーション"
 ---
 
 # 1.5倍振動
-<video controls width="250">
+<video controls width="560">
     <source src="string/1.5.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
@@ -49,7 +49,7 @@ title: "共振のシミュレーション"
 
 
 # 2倍振動
-<video controls width="250">
+<video controls width="560">
     <source src="string/2.0.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
@@ -58,7 +58,7 @@ title: "共振のシミュレーション"
 
 
 # 2.5倍振動
-<video controls width="250">
+<video controls width="560">
     <source src="string/2.5.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
@@ -67,7 +67,7 @@ title: "共振のシミュレーション"
 
 
 # 3倍振動
-<video controls width="250">
+<video controls width="560">
     <source src="string/3.0.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
@@ -76,7 +76,7 @@ title: "共振のシミュレーション"
 
 
 # 3.5倍振動
-<video controls width="250">
+<video controls width="560">
     <source src="string/3.5.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
@@ -85,7 +85,7 @@ title: "共振のシミュレーション"
 
 
 # 3.7倍振動
-<video controls width="250">
+<video controls width="560">
     <source src="string/3.7.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
@@ -94,7 +94,7 @@ title: "共振のシミュレーション"
 
 
 # 4倍振動
-<video controls width="250">
+<video controls width="560">
     <source src="string/4.0.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
@@ -103,7 +103,7 @@ title: "共振のシミュレーション"
 
 
 # 4.5倍振動
-<video controls width="250">
+<video controls width="560">
     <source src="string/4.5.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
@@ -112,7 +112,7 @@ title: "共振のシミュレーション"
 
 
 # 5倍振動
-<video controls width="250">
+<video controls width="560">
     <source src="string/5.0.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
@@ -121,7 +121,7 @@ title: "共振のシミュレーション"
 
 
 # 5.5倍振動
-<video controls width="250">
+<video controls width="560">
     <source src="string/5.5.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
@@ -130,7 +130,7 @@ title: "共振のシミュレーション"
 
 
 # 6倍振動
-<video controls width="250">
+<video controls width="560">
     <source src="string/6.0.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
