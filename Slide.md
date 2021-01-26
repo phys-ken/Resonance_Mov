@@ -29,4 +29,10 @@ title: "共振のシミュレーション"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YAzylCur1O4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
 
+# String test
+<video controls width="250">
+    <source src="string/1.0.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
