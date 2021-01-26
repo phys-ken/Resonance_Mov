@@ -32,96 +32,48 @@ title: "共振のシミュレーション"
 
 ---
 
- <iframe src=' https://drive.google.com/file/d/19JRaaNh_WOvv8IlMRJzZW4FovSfxzcJe/preview' width='640' height='480'></iframe>
+<video src = "/弦/1.0.mp4"></video>
 
 ---
 
- <iframe src=' https://drive.google.com/file/d/1VaAdS9hhKqX9HqhPs8gdS_qk4HmW-EG5/preview' width='640' height='480'></iframe>
+<video src = "/弦/1.5.mp4"></video>
 
 ---
 
- <iframe src=' https://drive.google.com/file/d/1u5bcZVqJODgQTAD-6sZQ2h559aNfGsDp/preview' width='640' height='480'></iframe>
+<video src = "/弦/2.0.mp4"></video>
 
 ---
 
- <iframe src=' https://drive.google.com/file/d/1WS9cYSeww6fdSmsMHvT_CU72x5FXQHCH/preview' width='640' height='480'></iframe>
+<video src = "/弦/2.5.mp4"></video>
 
 ---
 
- <iframe src=' https://drive.google.com/file/d/11Oub3zgQ-01HxN3bO26kvQIJmxcCwpiF/preview' width='640' height='480'></iframe>
+<video src = "/弦/3.0.mp4"></video>
 
 ---
 
- <iframe src=' https://drive.google.com/file/d/14xr6bMMCrrWuxOq_-PcOrtmvxaMBvgel/preview' width='640' height='480'></iframe>
+<video src = "/弦/3.5.mp4"></video>
 
 ---
 
- <iframe src=' https://drive.google.com/file/d/1ZSMz9pdrkxPJwTQjejcWH-8vQ9ZKEk77/preview' width='640' height='480'></iframe>
+<video src = "/弦/3.7.mp4"></video>
 
 ---
 
- <iframe src=' https://drive.google.com/file/d/10aweoCPQhAOTNKSnUCx4VqT-SyDZQoum/preview' width='640' height='480'></iframe>
+<video src = "/弦/4.0.mp4"></video>
 
 ---
 
- <iframe src=' https://drive.google.com/file/d/1y7os9zOvpTeGKn2akF8hgOTIJYzy46Rp/preview' width='640' height='480'></iframe>
+<video src = "/弦/4.5.mp4"></video>
 
 ---
 
- <iframe src=' https://drive.google.com/file/d/1NPQ2RBHwgSaYjAKd6_lyiLKVIBv6feqd/preview' width='640' height='480'></iframe>
+<video src = "/弦/5.0.mp4"></video>
 
 ---
 
- <iframe src=' https://drive.google.com/file/d/15Qzt6qvUbFQT1CijeE137M3tcw_0_dN8/preview' width='640' height='480'></iframe>
+<video src = "/弦/5.5.mp4"></video>
 
 ---
 
- <iframe src=' https://drive.google.com/file/d/1R5IAqYoeJiSqgvcGrhKkycmkARwFsFbd/preview' width='640' height='480'></iframe>
-
----
-
-## 気柱の共鳴(開管の場合)
-
-
----
-
- <iframe src=' https://drive.google.com/file/d/155qn6jmL6howRAp0YxiIFpA99ZIB9KxR/preview' width='640' height='480'></iframe>
-
-
----
-
- <iframe src=' https://drive.google.com/file/d/1SdzG2_APf0aquVIUXLa5g_jcc8sahH22/preview' width='640' height='480'></iframe>
-
-
----
-
- <iframe src=' https://drive.google.com/file/d/1YCYyg6VBqJttdRCJsqKYHunLsChX6wlT/preview' width='640' height='480'></iframe>
-
-
----
-
- <iframe src=' https://drive.google.com/file/d/1KQfSi_CYqG2PYC5N7o69TxW458TG8ecN/preview' width='640' height='480'></iframe>
-
-
----
-
- <iframe src=' https://drive.google.com/file/d/1SA3eQl2CQr5R3XFPqQatCrhVH6oWq3JM/preview' width='640' height='480'></iframe>
-
-
----
-
- <iframe src=' https://drive.google.com/file/d/1pYDxgOFm9RskFv86cp76Dl0Z-WETdFZM/preview' width='640' height='480'></iframe>
-
-
----
-
- <iframe src=' https://drive.google.com/file/d/1Ivz2oWg3P0UulsUpalq6R3m6TNnqnAy0/preview' width='640' height='480'></iframe>
-
----
-
-## 気柱の共鳴(閉管の場合)
-
----
-
- <iframe src=' https://drive.google.com/file/d/1gXrqQ86qGXicYuQJXlpKsemj-WCXQSw6/preview' width='640' height='480'></iframe>
-
+<video src = "/弦/6.0.mp4"></video>
