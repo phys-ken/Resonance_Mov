@@ -23,11 +23,17 @@ title: "共振のシミュレーション"
 ### 弦の共振
 * 両端で反射する波が連続で重なりあう。弦の長さと波長が<span style = "color:red">ちょうど良い関係</span>のとき、合成波は大きく成長する。
 
---
+---
 
 ### 参考:実験の図
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YAzylCur1O4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![弦の実験](string/genjikken.gif)
+
+---
+
+### 作成したアニメの例
+![3倍振動](string/3.0.gif) ![4倍振動](string/4.0.gif)
+
 
 ---
 
