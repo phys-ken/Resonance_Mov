@@ -156,3 +156,82 @@ title: "共振のシミュレーション"
 </video>
 
 ---
+
+# 気柱の共鳴(開管)
+
+---
+
+### 基本振動
+<video controls width="560">
+    <source src="open/n=1.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+---
+
+
+### 1.5倍振動?
+<video controls width="560">
+    <source src="open/n=1.5.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+---
+
+
+### 2倍振動
+<video controls width="560">
+    <source src="open/n=2.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+---
+
+
+### 2.5振動
+<video controls width="560">
+    <source src="open/n=2.5.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+---
+
+
+
+### 3倍振動
+<video controls width="560">
+    <source src="open/n=3.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+---
+
+
+
+### 3.5振動
+<video controls width="560">
+    <source src="open/n=3.5.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+---
+
+
+### 4倍振動
+<video controls width="560">
+    <source src="open/n=4.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+---
+
+#　気柱の共鳴(閉管)
+
+---
+
+### 4倍振動
+<video controls width="560">
+    <source src="close/n=4.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
