@@ -40,7 +40,7 @@ title: "共振のシミュレーション"
 ---
 
 ### 作成したアニメの例(連続波)
-![共振](string/4_.gif)
+![共振](string/out5.gif)
 ![共振？](string/3.7.gif)  
 
 |左:共振|右:共振ではない|
@@ -161,7 +161,7 @@ title: "共振のシミュレーション"
 
 ---
 
-### 基本振動
+# 基本振動
 <video controls width="560">
     <source src="open/n=1.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -170,7 +170,7 @@ title: "共振のシミュレーション"
 ---
 
 
-### 1.5倍振動?
+# 1.5倍振動?
 <video controls width="560">
     <source src="open/n=1.5.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -179,7 +179,7 @@ title: "共振のシミュレーション"
 ---
 
 
-### 2倍振動
+# 2倍振動
 <video controls width="560">
     <source src="open/n=2.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -188,7 +188,7 @@ title: "共振のシミュレーション"
 ---
 
 
-### 2.5振動
+# 2.5振動
 <video controls width="560">
     <source src="open/n=2.5.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -198,7 +198,7 @@ title: "共振のシミュレーション"
 
 
 
-### 3倍振動
+# 3倍振動
 <video controls width="560">
     <source src="open/n=3.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -208,7 +208,7 @@ title: "共振のシミュレーション"
 
 
 
-### 3.5振動
+# 3.5振動
 <video controls width="560">
     <source src="open/n=3.5.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -217,7 +217,7 @@ title: "共振のシミュレーション"
 ---
 
 
-### 4倍振動
+# 4倍振動
 <video controls width="560">
     <source src="open/n=4.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -229,7 +229,7 @@ title: "共振のシミュレーション"
 
 ---
 
-### 4倍振動
+# 4倍振動
 <video controls width="560">
     <source src="close/n=4.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
